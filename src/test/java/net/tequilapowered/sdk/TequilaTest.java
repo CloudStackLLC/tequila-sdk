@@ -1,4 +1,4 @@
-package net.mizukilab.tequila.sdk;
+package net.tequilapowered.sdk;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

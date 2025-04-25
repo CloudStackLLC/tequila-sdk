@@ -3,8 +3,8 @@ plugins {
     id("maven-publish")
 }
 
-group = "net.mizukilab.tequila.sdk"
-version = "1.0-SNAPSHOT"
+group = "net.tequilapowered.sdk"
+version = "1.1"
 
 repositories {
     mavenCentral()

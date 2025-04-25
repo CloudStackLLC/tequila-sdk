@@ -1,4 +1,4 @@
-package net.mizukilab.tequila.sdk;
+package net.tequilapowered.sdk;
 
 import java.util.HashSet;
 import java.util.Random;
